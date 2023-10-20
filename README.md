@@ -9,9 +9,9 @@ By tweeting a dataset of chats from a certain period of time, the machine is mad
 
 Features
 -----
-- 特点1  Deep learning was used to get higher accuracy rates
-- 特点2  NVIDIA's cuda acceleration technology is used, thus reducing the time required for machine learning.
-- 特点3  Used a lot of Twitter chat data to better improve accuracy
+- Feature 1  Deep learning was used to get higher accuracy rates
+- Feature 2  NVIDIA's cuda acceleration technology is used, thus reducing the time required for machine learning.
+- Feature 3  Used a lot of Twitter chat data to better improve accuracy
 
 
 System Requirements
